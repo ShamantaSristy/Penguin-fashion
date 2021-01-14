@@ -1,0 +1,23 @@
+.penguin-top{
+    background-color:#fffbf0;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    border: 0;
+}
+.card-footer{
+    border: 0;
+}
+.penguin-card{
+    background-color: white;
+    border: 0;
+}
+.buyer-connection img{
+        width: 50px;
+        height: 50px;
+}
+.footer{
+    background-color:#fffbf0;
+}
